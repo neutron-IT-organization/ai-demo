@@ -1,0 +1,7 @@
+names:
+  0: Ball
+  1: Hoop
+path: ../dataset
+test: images
+train: images
+val: images
