@@ -2,6 +2,6 @@ names:
   0: Ball
   1: Hoop
 path: ../dataset
-test: images
-train: images
-val: images
+test: images/test
+train: images/train
+val: images/val
